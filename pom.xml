@@ -40,7 +40,7 @@
     <build>
         <resources>
             <resource>
-                <directory>${project.build.directory}/dependency</directory>
+                <directory>${project.build.directory}/lib</directory>
                 <targetPath>lib/</targetPath>
             </resource>
         </resources>
